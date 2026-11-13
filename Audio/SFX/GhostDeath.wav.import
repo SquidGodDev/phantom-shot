@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/GhostDeath.wav-47c6ad8cf643fe298efaee5105e3b119.sample"
+
+[deps]
+
+source_file="res://Audio/SFX/GhostDeath.wav"
+dest_files=[ "res://.import/GhostDeath.wav-47c6ad8cf643fe298efaee5105e3b119.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0

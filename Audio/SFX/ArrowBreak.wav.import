@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/ArrowBreak.wav-2b8b12438a6815bf5f647e5dfc73fa0e.sample"
+
+[deps]
+
+source_file="res://Audio/SFX/ArrowBreak.wav"
+dest_files=[ "res://.import/ArrowBreak.wav-2b8b12438a6815bf5f647e5dfc73fa0e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
